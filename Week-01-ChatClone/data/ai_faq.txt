@@ -1,0 +1,33 @@
+Q: What is Artificial Intelligence (AI)?
+A: AI is the simulation of human intelligence in machines programmed to think and learn like humans, covering areas like reasoning, learning, perception, and language understanding.
+
+Q: What is the difference between supervised and unsupervised learning?
+A: Supervised learning uses labeled data to train models, while unsupervised learning finds patterns in unlabeled data without explicit guidance.
+
+Q: What is overfitting in machine learning?
+A: Overfitting happens when a model learns training data too well, including noise, causing poor performance on new data. Techniques like cross-validation and regularization help prevent it.
+
+Q: How does a neural network learn?
+A: Neural networks learn by adjusting weights through backpropagation, minimizing the error between predicted and actual outputs using gradient descent.
+
+Q: What are deep learning and its common architectures?
+A: Deep learning is a subset of machine learning using multi-layered neural networks. Common architectures include Convolutional Neural Networks (CNNs) for images and Recurrent Neural Networks (RNNs) for sequences.
+
+Q: What is natural language processing (NLP)?
+A: NLP enables machines to understand, interpret, and generate human language, used in chatbots, translation, sentiment analysis, and more.
+
+Q: Explain reinforcement learning.
+A: Reinforcement learning trains agents to make decisions by rewarding desired behaviors and punishing undesired ones, like teaching a robot to navigate a maze.
+
+Q: What is the bias-variance tradeoff?
+A: It’s the balance between a model’s ability to fit training data well (low bias) and its ability to generalize to new data (low variance). Finding the sweet spot prevents underfitting and overfitting.
+
+Q: What ethical concerns exist in AI?
+A: AI raises concerns like privacy violations, job displacement, algorithmic bias, and autonomous weapons misuse, requiring careful regulation.
+
+Q: How do transformers improve NLP?
+A: Transformers use attention mechanisms to process words in context, enabling models like GPT and BERT to understand language better than older models.
+
+Q: Give an example of AI application.
+A: AI powers recommendation systems on Netflix, enabling personalized content suggestions by analyzing viewing habits and preferences.
+
