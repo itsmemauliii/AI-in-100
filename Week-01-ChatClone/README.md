@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A lightweight, offline chatbot that answers questions from your own text documents, no API keys, no cloud, just pure Python + embeddings.
+A lightweight, chatbot that answers questions from your own text documents, no API keys, no cloud, just pure Python + embeddings.
 
 ## Why?
 
